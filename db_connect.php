@@ -8,7 +8,7 @@ $servername = "localhost";
  // Create connection
  $conn = mysqli_connect($servername,$username,$password,$dbname);
  
- $base = "http://127.0.0.1/prograde/";
+ $base = "http://vps001.qubehost.com/prograde/";
  // Check connection
  if ($conn->connect_error) {
      die("Connection failed: " . $conn->connect_error);
