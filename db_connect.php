@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
- $username = "root";
- $password = "";
+ $username = "admin";
+ $password = "zxcvbnm";
  $dbname = "prograde";
  $ser_key = "kanjw786cneu88734g4gb38yh4";
  
